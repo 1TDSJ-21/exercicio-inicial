@@ -1,2 +1,2 @@
 # exercicio-inicial
-Para exercios da Turma  
+Para exercios da Turma   
