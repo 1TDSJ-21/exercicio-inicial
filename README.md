@@ -1,5 +1,18 @@
 # exercicio-inicial
+
+
 Para exercios da Turma
+
+
+
+
+
+
+
+
+ 
+=======
+Para exercios da Turma   
 
 1 - Os alunos devem clonar o repositório.
 2 - Acessar o arquivo PDF com os exercícios.
