@@ -1,4 +1,17 @@
 # exercicio-inicial
+
+
+Para exercios da Turma
+
+
+
+
+
+
+
+
+ 
+=======
 Para exercios da Turma   
 
 1 - Os alunos devem clonar o repositório.
@@ -8,4 +21,3 @@ Para exercios da Turma
 5 - Criar seus commits.
 6 - Realizar o push.
 7 - No repositório remoto realizar o pull-request.
-
